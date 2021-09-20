@@ -1,6 +1,6 @@
-<div class="my-8 space-y-10">
+<div class="">
     @if ($successMessage)
-    <div class="rounded-md bg-green-50 p-4 my-8">
+    <div class="rounded-md bg-green-50 p-4">
         <div class="flex">
             <div class="flex-shrink-0">
                 <svg class="h-5 w-5 text-green-400" viewBox="0 0 20 20" fill="currentColor">
